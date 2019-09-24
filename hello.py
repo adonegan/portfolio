@@ -10,4 +10,9 @@ print(x * y)
 def message():
     return "hello worldy"
 
-message()    
+message() 
+
+a = 3
+b = 4
+
+print(a * b)
