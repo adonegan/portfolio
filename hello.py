@@ -13,8 +13,6 @@ def message():
 message() 
 
 a = 3
-b = 4
+b = 12
 
 print(a * b)
-
-hiya
